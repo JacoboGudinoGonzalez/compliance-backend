@@ -1,0 +1,1 @@
+INSERT INTO db_compliance.users(created_at,email,mat_surame,name,password,pat_surame,roles,tax_id,tel,type) VALUES('2019-10-10','jacobog_g@outlook.es','Gonzalez','Jacobo','12345678','Gudiño','','GUGJ910928SU7','5897138888',1);
